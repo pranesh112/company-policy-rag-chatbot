@@ -1,0 +1,5 @@
+streamlit
+openai
+langchain-pinecone
+langchain-huggingface
+sentence-transformers
